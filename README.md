@@ -9,6 +9,6 @@ The extension works on visualising the workbook in a SunBurst chart that links b
 ## Sunburst  
 - Copyright (c) 2017 Vasco Asturiano
 
-## Controbutions
+## Contributions
  - Developed by: Hanan Hindy
  - Idea by: Paul Sherriffs
