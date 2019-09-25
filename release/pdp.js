@@ -1,0 +1,2 @@
+/* PebblePadExtension V1.0 - Copyright (c) 2019 HananHindy */
+var onMessageHandler=function(e){chrome.runtime.onMessage.removeListener(onMessageHandler),console.log("Adding PDP data"),tabId=e.tabId,Sunburst().data(e.data).size("size").color("color").excludeRoot(!0).showLabels(!0).width(1024).height(768).onClick(function(e){e&&e.url&&chrome.tabs.update(tabId,{active:!0,url:e.url})}).tooltipTitle(function(e){if(e&&e.tooltip)return e.tooltip})(document.getElementById("chart"))};chrome.runtime.onMessage.addListener(onMessageHandler);
