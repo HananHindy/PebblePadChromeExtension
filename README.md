@@ -1,10 +1,9 @@
-# PebblePad Chrome Extension
+# PebblePad Chrome Extension for Workbooks with Multiple Pages
 
-This extension is meant to work with PebblePad workbooks with multiple pages and subpages.
+This extension is meant to work with PebblePad workbooks with multiple workbooks and pages.
 
 ## How it works
-The extension works on visualising the workbook in a SunBurst chart that links back to the workbook.
-
+The extension works on visualising the workbook in a SunBurst chart (Copyright (c) 2017 Vasco Asturiano) that links back to the workbook.
 
 ## Sunburst  
 - Copyright (c) 2017 Vasco Asturiano
