@@ -15,9 +15,10 @@ The extension works on visualising the workbook in a SunBurst chart (Copyright (
 * “Load unpacked” on the top left, select the folder.
 * Up on the right, disable developer mode.
 
-## Sunburst  
-- Copyright (c) 2017 Vasco Asturiano
-
-## Contributions
- - Developed by: Hanan Hindy
- - Idea by: Paul Sherriffs
+## Credits and Contributions 
+* [Sunburst](https://github.com/vasturiano/sunburst-chart/)
+  * Copyright (c) 2017 Vasco Asturiano
+* Development:
+  * [Hanan Hindy](https://hananhindy.com)
+* Idea:
+  * [Paul Sherriffs](https://www.researchgate.net/profile/Paul_Sherriffs)
